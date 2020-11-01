@@ -1,5 +1,11 @@
-Развёрнутый сайт - kozodoi-club-hack.surge.sh
+# Хакатон "Вездекод" от ВКонтакте. 2020
 
-Для локального развёртывания в корне необходимо выполнить npm i, затем npm start
+## Этап: Web
 
-Используемая версия ноды - 11.6.0, npm - 6.5.0-next.0
+## Задание: https://vk.com/@tech-task-hotfix-web
+
+## Команда: 404-Community
+
+---
+Развёрнутый сайт от ВК - http://kozodoi-club-hack.surge.sh/
+Развёрнутый сайт от нас - http://404community.surge.sh/
